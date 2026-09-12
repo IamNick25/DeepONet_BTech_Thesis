@@ -1,0 +1,45 @@
+epoch 001 | train loss 2.8638e-01 rmse 5.1061e-01 rmse_phys 2.1310e-01 | val loss 1.4021e-01 rmse 3.7049e-01 rmse_phys 1.5463e-01 | 1044.6s
+  saved: dataset_run_20260408-145632\checkpoints_unified_slice_unet_f\best.pt
+epoch 002 | train loss 7.9149e-02 rmse 2.8032e-01 rmse_phys 1.1699e-01 | val loss 1.0355e-01 rmse 3.1857e-01 rmse_phys 1.3296e-01 | 1034.0s
+  saved: dataset_run_20260408-145632\checkpoints_unified_slice_unet_f\best.pt
+epoch 003 | train loss 5.6702e-02 rmse 2.3731e-01 rmse_phys 9.9042e-02 | val loss 6.0704e-02 rmse 2.4277e-01 rmse_phys 1.0132e-01 | 1012.8s
+  saved: dataset_run_20260408-145632\checkpoints_unified_slice_unet_f\best.pt
+epoch 004 | train loss 4.2337e-02 rmse 2.0514e-01 rmse_phys 8.5614e-02 | val loss 5.9187e-02 rmse 2.3879e-01 rmse_phys 9.9658e-02 | 1033.4s
+  saved: dataset_run_20260408-145632\checkpoints_unified_slice_unet_f\best.pt
+epoch 005 | train loss 3.7485e-02 rmse 1.9280e-01 rmse_phys 8.0465e-02 | val loss 8.1485e-02 rmse 2.8244e-01 rmse_phys 1.1788e-01 | 1032.3s
+epoch 006 | train loss 4.0085e-02 rmse 1.9956e-01 rmse_phys 8.3286e-02 | val loss 6.0182e-02 rmse 2.4059e-01 rmse_phys 1.0041e-01 | 1033.9s
+epoch 007 | train loss 3.0217e-02 rmse 1.7307e-01 rmse_phys 7.2232e-02 | val loss 4.1784e-02 rmse 2.0003e-01 rmse_phys 8.3485e-02 | 1035.9s
+  saved: dataset_run_20260408-145632\checkpoints_unified_slice_unet_f\best.pt
+epoch 008 | train loss 2.6195e-02 rmse 1.6116e-01 rmse_phys 6.7262e-02 | val loss 4.1259e-02 rmse 1.9704e-01 rmse_phys 8.2233e-02 | 1037.0s
+  saved: dataset_run_20260408-145632\checkpoints_unified_slice_unet_f\best.pt
+epoch 009 | train loss 3.0061e-02 rmse 1.7142e-01 rmse_phys 7.1542e-02 | val loss 3.4932e-02 rmse 1.8324e-01 rmse_phys 7.6476e-02 | 1037.2s
+  saved: dataset_run_20260408-145632\checkpoints_unified_slice_unet_f\best.pt
+epoch 010 | train loss 2.3691e-02 rmse 1.5290e-01 rmse_phys 6.3814e-02 | val loss 3.1282e-02 rmse 1.7250e-01 rmse_phys 7.1991e-02 | 1038.5s
+  saved: dataset_run_20260408-145632\checkpoints_unified_slice_unet_f\best.pt
+epoch 011 | train loss 2.7407e-02 rmse 1.6454e-01 rmse_phys 6.8670e-02 | val loss 3.7879e-02 rmse 1.8954e-01 rmse_phys 7.9104e-02 | 1046.6s
+epoch 012 | train loss 2.2612e-02 rmse 1.4927e-01 rmse_phys 6.2298e-02 | val loss 3.9271e-02 rmse 1.9408e-01 rmse_phys 8.0998e-02 | 1307.6s
+epoch 013 | train loss 1.9326e-02 rmse 1.3825e-01 rmse_phys 5.7699e-02 | val loss 3.2186e-02 rmse 1.7588e-01 rmse_phys 7.3406e-02 | 1716.2s
+epoch 014 | train loss 2.2004e-02 rmse 1.4729e-01 rmse_phys 6.1472e-02 | val loss 3.8422e-02 rmse 1.9087e-01 rmse_phys 7.9659e-02 | 2022.5s
+epoch 015 | train loss 2.2006e-02 rmse 1.4764e-01 rmse_phys 6.1618e-02 | val loss 2.7063e-02 rmse 1.5812e-01 rmse_phys 6.5990e-02 | 2269.1s
+  saved: dataset_run_20260408-145632\checkpoints_unified_slice_unet_f\best.pt
+epoch 016 | train loss 2.4196e-02 rmse 1.5481e-01 rmse_phys 6.4608e-02 | val loss 2.7569e-02 rmse 1.6299e-01 rmse_phys 6.8026e-02 | 2056.6s
+epoch 017 | train loss 2.6268e-02 rmse 1.6083e-01 rmse_phys 6.7123e-02 | val loss 3.5066e-02 rmse 1.8269e-01 rmse_phys 7.6246e-02 | 2172.9s
+epoch 018 | train loss 1.7400e-02 rmse 1.3132e-01 rmse_phys 5.4808e-02 | val loss 2.7324e-02 rmse 1.6120e-01 rmse_phys 6.7278e-02 | 1957.7s
+epoch 019 | train loss 1.4388e-02 rmse 1.1934e-01 rmse_phys 4.9808e-02 | val loss 1.9446e-02 rmse 1.3601e-01 rmse_phys 5.6765e-02 | 2139.7s
+  saved: dataset_run_20260408-145632\checkpoints_unified_slice_unet_f\best.pt
+epoch 020 | train loss 1.5279e-02 rmse 1.2258e-01 rmse_phys 5.1160e-02 | val loss 4.4506e-02 rmse 2.0390e-01 rmse_phys 8.5099e-02 | 2281.3s
+epoch 021 | train loss 2.2010e-02 rmse 1.4710e-01 rmse_phys 6.1391e-02 | val loss 3.1667e-02 rmse 1.7190e-01 rmse_phys 7.1743e-02 | 2414.1s
+epoch 022 | train loss 2.7587e-02 rmse 1.6358e-01 rmse_phys 6.8270e-02 | val loss 2.5245e-02 rmse 1.5219e-01 rmse_phys 6.3515e-02 | 2436.5s
+epoch 023 | train loss 1.4554e-02 rmse 1.1994e-01 rmse_phys 5.0056e-02 | val loss 2.2191e-02 rmse 1.4505e-01 rmse_phys 6.0535e-02 | 2518.8s
+epoch 024 | train loss 1.6200e-02 rmse 1.2500e-01 rmse_phys 5.2168e-02 | val loss 3.6243e-02 rmse 1.8433e-01 rmse_phys 7.6928e-02 | 2627.8s
+epoch 025 | train loss 1.7512e-02 rmse 1.3107e-01 rmse_phys 5.4704e-02 | val loss 2.0663e-02 rmse 1.4140e-01 rmse_phys 5.9013e-02 | 2683.8s
+epoch 026 | train loss 2.3012e-02 rmse 1.4980e-01 rmse_phys 6.2521e-02 | val loss 2.3165e-02 rmse 1.4847e-01 rmse_phys 6.1965e-02 | 2761.0s
+epoch 027 | train loss 1.4299e-02 rmse 1.1871e-01 rmse_phys 4.9546e-02 | val loss 1.9686e-02 rmse 1.3762e-01 rmse_phys 5.7434e-02 | 2833.9s
+epoch 028 | train loss 1.2665e-02 rmse 1.1196e-01 rmse_phys 4.6728e-02 | val loss 1.7221e-02 rmse 1.2840e-01 rmse_phys 5.3589e-02 | 2978.0s
+  saved: dataset_run_20260408-145632\checkpoints_unified_slice_unet_f\best.pt
+epoch 029 | train loss 1.1920e-02 rmse 1.0859e-01 rmse_phys 4.5319e-02 | val loss 1.8499e-02 rmse 1.3351e-01 rmse_phys 5.5722e-02 | 3092.3s
+epoch 030 | train loss 2.8518e-02 rmse 1.6386e-01 rmse_phys 6.8387e-02 | val loss 4.0718e-02 rmse 1.9458e-01 rmse_phys 8.1207e-02 | 3092.8s
+epoch 031 | train loss 2.0958e-02 rmse 1.4229e-01 rmse_phys 5.9383e-02 | val loss 2.5980e-02 rmse 1.5880e-01 rmse_phys 6.6277e-02 | 3159.7s
+epoch 032 | train loss 1.3739e-02 rmse 1.1636e-01 rmse_phys 4.8562e-02 | val loss 1.8389e-02 rmse 1.3285e-01 rmse_phys 5.5446e-02 | 3529.1s
+epoch 033 | train loss 1.2427e-02 rmse 1.1092e-01 rmse_phys 4.6293e-02 | val loss 1.8415e-02 rmse 1.3364e-01 rmse_phys 5.5775e-02 | 3746.8s
+epoch 034 | train loss 1.3027e-02 rmse 1.1153e-01 rmse_phys 4.6546e-02 | val loss 3.4675e-02 rmse 1.7991e-01 rmse_phys 7.5084e-02 | 3895.5s

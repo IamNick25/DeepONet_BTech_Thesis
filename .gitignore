@@ -1,0 +1,78 @@
+# ---------------------------------------------------------------------------
+# Python / Jupyter
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+*.egg-info/
+
+# ---------------------------------------------------------------------------
+# Editors / OS
+# ---------------------------------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# ---------------------------------------------------------------------------
+# Project-specific generated artefacts
+#
+# Dataset generation writes a timestamped `dataset_run_YYYYMMDD-HHMMSS/`
+# directory containing the .npz dataset, per-case diagnostic plots and the
+# model checkpoints. These are large (200 MB - 1.7 GB per run) and fully
+# reproducible from the notebooks, so they are deliberately NOT tracked.
+# Place regenerated runs under `runs/` (the path the curated notebooks expect).
+# ---------------------------------------------------------------------------
+runs/
+dataset_run_*/
+checkpoints_*/
+checkpoints_udeeponet_*/
+checkpoints_unified_slice_unet_*/
+*.npz
+*.npy
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.hdf5
+*.mat
+*.log
+
+# Large per-case diagnostic plots emitted by the dataset generators
+case_*_temp_and_liquid_profiles.png
+case_*_boundary_profiles.png
+case_*_time_stats.png
+case_*_variance_stats.png
+
+# ---------------------------------------------------------------------------
+# Manuscript material - MUST NEVER be committed to this repository.
+# The unpublished journal manuscript and all of its source files are kept
+# entirely outside this repository. These patterns are a safety net only.
+# ---------------------------------------------------------------------------
+*.tex
+*.bib
+*.bbl
+*.blg
+*.aux
+*.synctex.gz
+journal/
+manuscript/
+submission/
+reviewer*/
+supplementary*/
+*journal*.pdf
+*manuscript*.pdf
+Deeponet_Asmit*.pdf
+
+# ---------------------------------------------------------------------------
+# Thesis / report binaries (kept outside the repository; see docs/)
+# ---------------------------------------------------------------------------
+*.docx
+*.pptx

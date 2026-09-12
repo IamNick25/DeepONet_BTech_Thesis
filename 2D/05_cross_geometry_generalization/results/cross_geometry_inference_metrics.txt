@@ -1,0 +1,40 @@
+CROSS GEOMETRY:
+
+CIRCLE TEST VS ONLY PRISMATIC DATASET TRAINED
+
+U-DeepONet prediction time = 0.076373 s
+  liquid fraction error: max = 0.9278, MAE = 0.0283, RMSE = 0.0837, R2 = 0.9714
+  heat source (ch 0) true range: min = 4.5, max = 1.10533e+06, mean = 136557
+
+ U-DeepONet prediction time = 0.072240 s
+  temperature error: max = 30.4941 K, MAE = 3.9521 K, RMSE = 5.3018 K, R2 = 0.9918
+  heat source (ch 0) true range: min = 4.5, max = 1.10533e+06, mean = 136557
+
+CIRCLE TEST VS GENERALIZED DATASET TRAINED
+
+U-DeepONet prediction time = 0.081759 s
+  liquid fraction error: max = 1.0000, MAE = 0.0334, RMSE = 0.0992, R2 = 0.9598
+  heat source (ch 0) true range: min = 4.5, max = 1.10533e+06, mean = 136557
+
+U-DeepONet prediction time = 0.071516 s
+  temperature error: max = 18.8293 K, MAE = 2.9551 K, RMSE = 4.0642 K, R2 = 0.9952
+  heat source (ch 0) true range: min = 4.5, max = 1.10533e+06, mean = 136557
+ELLIPTIC TEST VS PRISMATIC ONLY TRAINED
+
+U-DeepONet prediction time = 0.239866 s
+  liquid fraction error: max = 1.0000, MAE = 0.0301, RMSE = 0.0914, R2 = 0.9659
+  heat source (ch 0) true range: min = 4.5, max = 1.12271e+06, mean = 122477
+
+U-DeepONet prediction time = 0.223468 s
+  temperature error: max = 24.6779 K, MAE = 3.4837 K, RMSE = 4.6157 K, R2 = 0.9927
+  heat source (ch 0) true range: min = 4.5, max = 1.12271e+06, mean = 122477
+
+ELLIPTIC TEST VS GENERALIZED DATASET TRAINED
+
+U-DeepONet prediction time = 0.074774 s
+  liquid fraction error: max = 0.9994, MAE = 0.0365, RMSE = 0.1060, R2 = 0.9542
+  heat source (ch 0) true range: min = 4.5, max = 1.12271e+06, mean = 122477
+
+U-DeepONet prediction time = 0.073133 s
+  temperature error: max = 21.7330 K, MAE = 2.8245 K, RMSE = 3.9733 K, R2 = 0.9946
+  heat source (ch 0) true range: min = 4.5, max = 1.12271e+06, mean = 122477

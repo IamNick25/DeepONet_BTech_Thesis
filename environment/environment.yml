@@ -1,0 +1,23 @@
+# ---------------------------------------------------------------------------
+# Conda environment for the DeepONet / U-DeepONet PCM surrogate notebooks.
+# See requirements.txt for the provenance of the pinned versions.
+# ---------------------------------------------------------------------------
+name: deeponet-pcm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - scikit-image
+  - joblib
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pip:
+      # CPU build. For a CUDA 12.1 GPU install instead:
+      #   pip install torch==2.5.1 --index-url https://download.pytorch.org/whl/cu121
+      - torch==2.5.1

@@ -1,0 +1,63 @@
+Case-1 image inference data
+
+U-DeepONet prediction time = 0.123400 s
+  liquid fraction error: max = 0.4030, mean = 0.0248, RMSE = 0.0444
+  heat source (ch 0) true range: min = 36189.1, max = 316747, mean = 100000
+
+U-DeepONet prediction time = 0.069062 s
+  temperature error: max = 16.4926 K, mean = 1.7342 K, RMSE = 2.6239 K
+  heat source (ch 0) true range: min = 36189.1, max = 316747, mean = 100000
+
+CASE-2
+
+U-DeepONet prediction time = 0.078529 s
+  liquid fraction error: max = 0.8022, mean = 0.0280, RMSE = 0.0660
+  heat source (ch 0) true range: min = 61038.2, max = 219735, mean = 100000
+
+U-DeepONet prediction time = 0.073286 s
+  temperature error: max = 21.6414 K, mean = 3.1044 K, RMSE = 4.3245 K
+  heat source (ch 0) true range: min = 61038.2, max = 219735, mean = 100000
+
+
+CASE-3 
+
+U-DeepONet prediction time = 0.077882 s
+  liquid fraction error: max = 1.0000, mean = 0.0440, RMSE = 0.1456
+  heat source (ch 0) true range: min = 4.5, max = 1.02645e+06, mean = 179663
+
+U-DeepONet prediction time = 0.074317 s
+  temperature error: max = 38.3517 K, mean = 8.7471 K, RMSE = 11.8919 K
+  heat source (ch 0) true range: min = 4.5, max = 1.02645e+06, mean = 179663
+
+
+CASE-4
+
+U-DeepONet prediction time = 0.081073 s
+  temperature error: max = 24.0767 K, mean = 3.3219 K, RMSE = 4.4681 K
+  heat source (ch 0) true range: min = 4.5, max = 1.12627e+06, mean = 151904
+
+U-DeepONet prediction time = 0.073251 s
+  liquid fraction error: max = 0.9413, mean = 0.0351, RMSE = 0.0959
+  heat source (ch 0) true range: min = 4.5, max = 1.12627e+06, mean = 151904
+
+
+CASE-5 
+
+U-DeepONet prediction time = 0.137644 s
+  liquid fraction error: max = 0.9621, mean = 0.0369, RMSE = 0.1041
+  heat source (ch 0) true range: min = 4.5, max = 1.13577e+06, mean = 116173
+
+U-DeepONet prediction time = 0.300297 s
+  temperature error: max = 25.3861 K, mean = 2.7495 K, RMSE = 4.0388 K
+  heat source (ch 0) true range: min = 4.5, max = 1.13577e+06, mean = 116173
+
+
+CASE-6
+
+U-DeepONet prediction time = 0.085796 s
+  temperature error: max = 35.2968 K, mean = 3.3485 K, RMSE = 4.5078 K
+  heat source (ch 0) true range: min = 64067.2, max = 719619, mean = 162102
+
+ U-DeepONet prediction time = 0.074399 s
+  liquid fraction error: max = 0.8699, mean = 0.0250, RMSE = 0.0680
+  heat source (ch 0) true range: min = 64067.2, max = 719619, mean = 162102
